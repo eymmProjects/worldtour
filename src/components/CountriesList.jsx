@@ -3,7 +3,10 @@ import React from "react";
 import styles from "./CountryList.module.css";
 import Message from "./Message";
 import CountryItem from "./CountryItem";
-function CountriesList({ cities, isLoading }) {
+import { useCities } from "../contexts/CitiesContext";
+function CountriesList() {
+  const { cities, isLoading } = useCities();
+
   if (isLoading) return <Spinner />;
 
   if (!cities.length) return <Message message="Add your first citties " />;
