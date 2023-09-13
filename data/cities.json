@@ -25,16 +25,88 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Castelo Branco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-13T00:56:07.330Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "39.842286020743394",
+        "lng": "-7.712402343750001"
       },
-      "id": 98443197
+      "id": 98443198
+    },
+    {
+      "cityName": "Arbis",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-13T00:58:06.392Z",
+      "notes": "",
+      "position": {
+        "lat": "44.66865287227321",
+        "lng": "-0.28564453125000006"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Alcollarin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-13T01:02:16.524Z",
+      "notes": "",
+      "position": {
+        "lat": "39.232253141714914",
+        "lng": "-5.712890625000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Barrancos",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-13T01:03:35.198Z",
+      "notes": "",
+      "position": {
+        "lat": "38.134556577054134",
+        "lng": "-7.075195312500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Fuenllana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-13T02:22:07.969Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75408327579141",
+        "lng": "-2.9223632812500004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Huelma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-13T02:22:18.056Z",
+      "notes": "",
+      "position": {
+        "lat": "37.71859032558816",
+        "lng": "-3.4497070312500004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "El Picazo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-13T02:23:55.582Z",
+      "notes": "",
+      "position": {
+        "lat": "39.41922073655956",
+        "lng": "-2.1093750000000004"
+      },
+      "id": 98443204
     }
   ]
 }
